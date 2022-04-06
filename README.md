@@ -1,3 +1,3 @@
 # squash-merge-test
 
-change
+Please make sure that you squash + merge PRs.
