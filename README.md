@@ -1,1 +1,3 @@
 # squash-merge-test
+
+change
